@@ -1,0 +1,28 @@
+# Ignore the target directory
+/target/
+
+# Ignore Cargo.lock
+/Cargo.lock
+
+# Ignore the Rust editor backups
+*.rs.bk
+*.rs.bk2
+
+# Ignore Rust compiled binaries
+*.dSYM
+*.pdb
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+
+# Ignore log files
+*.log
+
+# Ignore configuration files
+*.env
