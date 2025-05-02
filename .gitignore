@@ -1,8 +1,8 @@
 # Ignore the target directory
-/target/
+target/
 
 # Ignore Cargo.lock
-/Cargo.lock
+Cargo.lock
 
 # Ignore the Rust editor backups
 *.rs.bk
